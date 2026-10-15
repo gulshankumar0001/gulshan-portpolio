@@ -1,0 +1,21 @@
+{
+  "name": "gulshan-kumar-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal Portfolio of Gulshan Kumar - B.Tech Student at JECRC University, Jaipur",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve .",
+    "build": "echo 'Build successful'"
+  },
+  "keywords": [
+    "portfolio",
+    "gulshan-kumar",
+    "jecrc-university",
+    "btech",
+    "ai",
+    "web-development"
+  ],
+  "author": "Gulshan Kumar <gulshan.26been0015@jecru.edu.in>",
+  "license": "MIT"
+}
